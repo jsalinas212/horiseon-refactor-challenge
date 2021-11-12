@@ -99,11 +99,9 @@ article img {
 
 article h2 {
     margin: 20px;
-    padding: 20px 40px;
+    padding: 20px 40;
     font-size: 38px;
-    display: inline-block;
     color: #d9dcd6;
-    border-bottom: 1px solid #d9dcd6;
 }
 
 article p {
@@ -144,7 +142,6 @@ section img {
 
 section p {
     font-size: 18px;
-    padding: 0 10px 12px 10px;
     line-height: 1.5;
 }
 
