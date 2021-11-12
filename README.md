@@ -1,4 +1,4 @@
-# horiseon-refactor-challenge
+# Horiseon Website Refactor Challenge
 
 ## Purpose
 Horiseon is a Brand Awareness and Marketing company that will bring your online presence to the next level.
