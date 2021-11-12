@@ -1,7 +1,7 @@
 # Horiseon Website Refactor Challenge
 
 ## Purpose
-Horiseon is a Brand Awareness and Marketing company that will bring your online presence to the next level.
+Horiseon is a brand awareness and arketing agency that will bring your online presence to the next level.
 
 ## Built With
 
@@ -15,4 +15,5 @@ Horiseon is a Brand Awareness and Marketing company that will bring your online 
 ## Contributions
 
 Made with ❤️️ by Horiseon
+
 Refactored by Jorge A Salinas Jr
