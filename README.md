@@ -1,2 +1,18 @@
 # horiseon-refactor-challenge
-Horiseon website code refactor challenge for SMU Coding Bootcamp
+
+## Purpose
+Horiseon is a Brand Awareness and Marketing company that will bring your online presence to the next level.
+
+## Built With
+
+* HTML
+* CSS
+
+## Website
+
+![Horiseon Website](https://jsalinas212.github.io/horiseon-refactor-challenge)
+
+## Contributions
+
+Made with ❤️️ by Horiseon
+Refactored by Jorge A Salinas Jr
