@@ -10,7 +10,7 @@ Horiseon is a Brand Awareness and Marketing company that will bring your online 
 
 ## Website
 
-![Horiseon Website](https://jsalinas212.github.io/horiseon-refactor-challenge)
+[Horiseon Website](https://jsalinas212.github.io/horiseon-refactor-challenge)
 
 ## Contributions
 
